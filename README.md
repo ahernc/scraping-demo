@@ -3,6 +3,8 @@ A C# program to demonstrate usage of HtmlAgilityPack for scraping content from w
 
 The most common functionality you might want to test out in HtmlAgilityPack is demonstrated here.
 
+For the full explanation, see http://colmahern.com/scraping-websites-in-csharp-using-htmlagilitypack
+
 # Dependencies
 https://www.nuget.org/packages/HtmlAgilityPack/
 
